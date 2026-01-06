@@ -1,0 +1,2 @@
+# C4NDY_STM32G4_Dev_Board
+STM32G491CET6を搭載した開発ボード
