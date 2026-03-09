@@ -12,3 +12,13 @@ STM32G491CET6を搭載した開発ボード
 
 ## size
 ![c4ndy-main-revg-size](https://github.com/user-attachments/assets/d77e3be2-025f-4cc8-a209-06acb1d0277d)
+
+## License
+This repository is multi-licensed.
+
+- `STM32CubeIDE/` is licensed under the **MIT License**.
+- `KiCad/` and KiCad hardware design files are licensed under
+  **CERN-OHL-P-2.0**.
+
+See the full license texts in `LICENSES/MIT.txt` and
+`LICENSES/CERN-OHL-P-2.0.txt`.
