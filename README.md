@@ -4,7 +4,8 @@ This board is a development board featuring the STM32G491CET6 microcontroller.
 Despite its compact size, it supports up to 16 analog inputs and offers a wide range of peripherals including I2C, SPI, USART, QSPI, and SAI. Furthermore, its USB full-speed capability enables development not only for USB keyboards and MIDI controllers but also for simple USB audio devices.
 
 ## how to buy
-[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/130799898)
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/stm32g491cet6-dev-board/)  
+- [BASE(Japan)](https://miyworks.base.shop/items/130799898)
 
 ## specifications
 - STM32G491CET6(Arm Cortex-M4/170MHz max)
