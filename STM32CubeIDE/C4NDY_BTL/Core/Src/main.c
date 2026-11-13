@@ -30,6 +30,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "stdbool.h"
+#include "SEGGER_RTT.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
